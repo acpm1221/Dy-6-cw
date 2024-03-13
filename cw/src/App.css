@@ -1,0 +1,17 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  padding-top: 64px; /* Adjust according to the height of your Navbar */
+}
+
+.gridItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
